@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2019_4_20;UNITY_2019_4;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_VSTU;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2019_4_20;UNITY_2019_4;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_VSTU;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -49,7 +49,7 @@
     <UnityProjectGenerator>Unity/VSTU</UnityProjectGenerator>
     <UnityProjectGeneratorVersion>4.8.2.0</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
-    <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
+    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2019.4.20f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
@@ -64,8 +64,31 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\GooglePlayStoreImpl.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\GooglePlayStoreModule.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\GooglePlayStoreProrationMode.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\GooglePlayStoreUnsupportedException.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\IGooglePlayConfiguration.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\IGooglePlayStoreExtensions.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\AcknowledgeResponseListener.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\BillingClientStateListener.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\BillingResponseCode.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\Constants.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\ConsumeResponseListener.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\GooglePlayBillingInventory.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\GooglePlayBillingUtil.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\JniUtils.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\PriceChangeConfirmationListener.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\Purchase.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\PurchaseUpdatedListener.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\SkuDetails.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\SkuDetailsResponseListener.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Internal\SkuType.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Mock\FakeGooglePlayConfiguration.cs" />
+    <Compile Include="Assets\GooglePlayPlugins\com.google.play.billing\Runtime\Scripts\Mock\FakeGooglePlayStoreExtensions.cs" />
     <Compile Include="Assets\Scripts\Ball.cs" />
     <Compile Include="Assets\Scripts\Block.cs" />
+    <Compile Include="Assets\Scripts\EditGame.cs" />
     <Compile Include="Assets\Scripts\GameState.cs" />
     <Compile Include="Assets\Scripts\Level.cs" />
     <Compile Include="Assets\Scripts\LoseCollider.cs" />
@@ -113,6 +136,7 @@
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\GooglePlayPlugins\com.google.play.appupdate\Proguard\app_update.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
@@ -121,8 +145,12 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\GooglePlayPlugins\com.google.play.assetdelivery\Proguard\asset_delivery.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\GooglePlayPlugins\com.google.play.review\Proguard\review.txt" />
+    <None Include="Assets\GooglePlayPlugins\com.google.play.billing\Proguard\billing.txt" />
+    <None Include="Assets\GooglePlayPlugins\com.google.play.core\Proguard\common.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
@@ -672,9 +700,29 @@
       <Project>{B7C318FC-828B-249D-5280-B21C067384D3}</Project>
       <Name>Unity.2D.PixelPerfect.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Google.Play.Review.csproj">
+      <Project>{1980996E-1F2A-4CBA-4183-112C2E1303E2}</Project>
+      <Name>Google.Play.Review</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VSCode.Editor.csproj">
       <Project>{9C8B5FE5-8D9F-6801-2D80-6593DFCF3654}</Project>
       <Name>Unity.VSCode.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Google.Play.AssetDelivery.csproj">
+      <Project>{0C29E215-16ED-6099-1E03-260E6D700684}</Project>
+      <Name>Google.Play.AssetDelivery</Name>
+    </ProjectReference>
+    <ProjectReference Include="Google.Play.Instant.csproj">
+      <Project>{0323FCDB-1959-F895-99F2-478582DE7B3E}</Project>
+      <Name>Google.Play.Instant</Name>
+    </ProjectReference>
+    <ProjectReference Include="Google.Play.Billing.Editor.csproj">
+      <Project>{46A31929-0582-B118-8063-3195FCF5DC43}</Project>
+      <Name>Google.Play.Billing.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Google.Play.Core.csproj">
+      <Project>{22F9AECC-65B8-9AF4-550C-FB564CB62E80}</Project>
+      <Name>Google.Play.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.SpriteShape.Editor.csproj">
       <Project>{BA2952F1-2A97-C3F7-554C-6E4421D8A1C7}</Project>
@@ -692,6 +740,10 @@
       <Project>{3A7D5119-B643-999C-04A4-C00CE071A7FC}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
+    <ProjectReference Include="Google.Android.AppBundle.Editor.csproj">
+      <Project>{D97B7DD6-DD77-1AE7-D2D6-BD4753B2DE62}</Project>
+      <Name>Google.Android.AppBundle.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
       <Project>{FF2D8CC3-BFC4-E1E3-C7DD-19152365DA10}</Project>
       <Name>Unity.Timeline</Name>
@@ -707,6 +759,10 @@
     <ProjectReference Include="Unity.CollabProxy.Editor.csproj">
       <Project>{567F831A-5DF7-70F9-3DEA-43FEF93951D0}</Project>
       <Name>Unity.CollabProxy.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Google.Play.Instant.Editor.csproj">
+      <Project>{BB6A6A01-3E5C-F28A-421F-D51B014D0714}</Project>
+      <Name>Google.Play.Instant.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Rider.Editor.csproj">
       <Project>{86F9D71F-B0EE-2EE9-54FC-CC303D362021}</Project>
@@ -744,6 +800,10 @@
       <Project>{4241270D-1760-A4A7-18F9-EED34A32250E}</Project>
       <Name>Unity.2D.PixelPerfect</Name>
     </ProjectReference>
+    <ProjectReference Include="Google.Play.AppUpdate.csproj">
+      <Project>{26FB5733-FAA2-4132-4BEE-43528D446B0A}</Project>
+      <Name>Google.Play.AppUpdate</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Editor.csproj">
       <Project>{2CFA8F92-CE29-A3B2-C2C8-8DAFD8CBD654}</Project>
       <Name>Unity.2D.Animation.Editor</Name>
@@ -763,6 +823,10 @@
     <ProjectReference Include="Unity.InternalAPIEditorBridge.001.csproj">
       <Project>{D8B5C2AB-6D78-875C-C162-D38E576E60F5}</Project>
       <Name>Unity.InternalAPIEditorBridge.001</Name>
+    </ProjectReference>
+    <ProjectReference Include="Google.Play.Common.csproj">
+      <Project>{830ACFD3-9FF9-DC4C-040D-3C3C652B2AA5}</Project>
+      <Name>Google.Play.Common</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
       <Project>{71A830B0-7102-13E4-9C4D-FC8458BD21CF}</Project>

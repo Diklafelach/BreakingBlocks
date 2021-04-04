@@ -49,7 +49,7 @@ MonoBehaviour:
   currentScore: 0
   displayText: {fileID: 308319868277052306}
   finished: 0
-  autoPlayed: 1
+  autoPlayed: 0
   seconds: 
   minutes: 
   startTime: 0

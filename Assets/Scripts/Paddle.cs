@@ -5,7 +5,7 @@ public class Paddle : MonoBehaviour
 
     //configuration parameters
     [SerializeField] float widthScreenInUnits=16f;
-    [SerializeField] float minX = 0f, maxX = 16f;
+    [SerializeField] float minX = -1.74f, maxX = 17.75f;
 
     Ball ball;
     GameState gameState;
@@ -21,6 +21,7 @@ public class Paddle : MonoBehaviour
         Vector2 paddlePos = new Vector2(transform.position.x, transform.position.y);
         paddlePos.x = Mathf.Clamp(GetXPos(), minX, maxX);
         transform.position = paddlePos;
+        Debug.Log(paddlePos);
 
        
     }

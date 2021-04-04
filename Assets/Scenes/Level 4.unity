@@ -572,6 +572,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Break able blocks (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3008877030496758574, guid: 0686ea4fb3e2405469c9d2f73b191d9b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0686ea4fb3e2405469c9d2f73b191d9b, type: 3}
 --- !u!4 &1279635946 stripped
@@ -720,6 +725,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Unbreak able blocks (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3008877030496758574, guid: fc8acd539a963f445b2ad930e02c94be,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc8acd539a963f445b2ad930e02c94be, type: 3}
 --- !u!4 &1368976448 stripped
@@ -794,6 +804,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Break able blocks
+      objectReference: {fileID: 0}
+    - target: {fileID: 3008877030496758574, guid: 0686ea4fb3e2405469c9d2f73b191d9b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0686ea4fb3e2405469c9d2f73b191d9b, type: 3}
@@ -870,6 +885,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: Play Space
       objectReference: {fileID: 0}
+    - target: {fileID: 455500718850069832, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 455500718850069832, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 455500719214113060, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 455500719214113060, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 455500719935169322, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.69
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3b088e77ae3616340b56ff1790f34fc4, type: 3}
 --- !u!1001 &1650375280
@@ -942,6 +982,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Unbreak able blocks
+      objectReference: {fileID: 0}
+    - target: {fileID: 3008877030496758574, guid: fc8acd539a963f445b2ad930e02c94be,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc8acd539a963f445b2ad930e02c94be, type: 3}
@@ -1056,6 +1101,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Break able blocks (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3008877030496758574, guid: 0686ea4fb3e2405469c9d2f73b191d9b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0686ea4fb3e2405469c9d2f73b191d9b, type: 3}
 --- !u!4 &1743675796 stripped
@@ -1130,6 +1180,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Break able blocks (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3008877030496758574, guid: 0686ea4fb3e2405469c9d2f73b191d9b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0686ea4fb3e2405469c9d2f73b191d9b, type: 3}
@@ -1206,6 +1261,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moving Block
       objectReference: {fileID: 0}
+    - target: {fileID: 3008877030496758574, guid: 8f6775fbacca8b240a0c124425807f12,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f6775fbacca8b240a0c124425807f12, type: 3}
 --- !u!4 &1955131432 stripped
@@ -1221,6 +1281,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1851739012, guid: 6c149b8b3118c034f8023af2b873131b, type: 3}
+      propertyPath: autoPlayed
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 308319867861242185, guid: 6c149b8b3118c034f8023af2b873131b,
         type: 3}
       propertyPath: m_AnchoredPosition.y

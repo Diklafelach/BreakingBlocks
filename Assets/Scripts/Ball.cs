@@ -51,7 +51,7 @@ public class Ball : MonoBehaviour
         {
             hasStarted = true;
             myrigidbody2D.velocity = new Vector2(xPush,yPush);
-            myrigidbody2D.velocity = myrigidbody2D.velocity.normalized * 7.5f;
+            myrigidbody2D.velocity = myrigidbody2D.velocity.normalized * 7f;
 
         }
     }
@@ -69,7 +69,7 @@ public class Ball : MonoBehaviour
         {
             myrigidbody2D.velocity += new Vector2(1.5f, 1.5f);
         }
-        myrigidbody2D.velocity = myrigidbody2D.velocity.normalized * 7.5f;
+        myrigidbody2D.velocity = myrigidbody2D.velocity.normalized * 7f;
 
     }
 }

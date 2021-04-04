@@ -581,6 +581,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: Play Space
       objectReference: {fileID: 0}
+    - target: {fileID: 455500718850069832, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 455500718850069832, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 455500719214113060, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 455500719214113060, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 455500719935169322, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 455500719935169322, guid: 3b088e77ae3616340b56ff1790f34fc4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.56
+      objectReference: {fileID: 0}
     - target: {fileID: 455500720041578827, guid: 3b088e77ae3616340b56ff1790f34fc4,
         type: 3}
       propertyPath: m_LocalScale.x
